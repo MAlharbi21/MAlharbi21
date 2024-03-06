@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Mohammed 
 - 👀 I’m interested in hacking and programming
-- 🌱 I’m currently learning C 
+- 🌱 I’m currently learning C program language
 - 📫 How to reach me Discord : GWY1
 - ⚡ Computer Science 
 
