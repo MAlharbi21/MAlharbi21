@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Mohammed 
 - 👀 I’m interested in hacking and programming
-- 📫 How to reach me Discord : GWY1
+- 📫 You can Reach me on X : @mohammed_2x1
 - ⚡ Computer Science 
 
 <!---
